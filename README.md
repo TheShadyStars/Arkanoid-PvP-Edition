@@ -1,2 +1,2 @@
-# Arkanoid-PvP-Edition
+# Arkanoid PvP Edition
 Fight. Lose. Do It Better. WIN!
